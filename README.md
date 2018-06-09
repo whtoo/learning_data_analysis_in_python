@@ -1,5 +1,5 @@
 # learning_data_analysis_in_python
-## Guide for sketch
+## ![compass](/images/compass32x32.png)Guide for sketch
 1. Step for enviroment setup
    1. install virtualenv
    2. install python3 in brew
@@ -7,3 +7,4 @@
       2. setup python3 env
 2. Init requirements
    1. pip3 install -r requirements.txt
+   2.
