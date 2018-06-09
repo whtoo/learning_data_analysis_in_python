@@ -7,4 +7,4 @@
       2. setup python3 env
 2. Init requirements
    1. pip3 install -r requirements.txt
-   2.
+   2. 
